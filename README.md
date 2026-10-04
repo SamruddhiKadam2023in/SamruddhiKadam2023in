@@ -74,11 +74,7 @@ I'm a **Full-Stack Developer** focused on building scalable web applications, AI
 
 ## 🤖 AI / ML & Computer Vision
 
-**Machine Learning · Computer Vision · OpenCV · YOLO · NLP · Tesseract OCR · Image Processing · Predictive Analytics**
-
-### 🧠 Generative AI
-
-**LLM Applications · Retrieval-Augmented Generation (RAG) · Embeddings**
+**OpenCV · YOLO · Computer Vision · Image Processing ·  NLP · RAG · Tesseract OCR  · Predictive Analytics**
 
 ---
 
