@@ -3,14 +3,14 @@
 ### Full-Stack Developer building AI-powered applications & intelligent systems
 
 <p align="left">
-  <a href="https://github.com/SamruddhiKadam2023in">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/-samruddhi-kadam/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:samruddhikadam.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/SamruddhiKadam2023in">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -30,70 +30,26 @@ I'm a **Full-Stack Developer** focused on building scalable web applications, AI
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## 🧑‍💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,mysql" />
-</p>
-
-**JavaScript · TypeScript · Python · Java · SQL**
-
----
-
-## 🎨 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
-
-**React.js · JavaScript · TypeScript · HTML5 · CSS3**
+| Category | Technologies |
+|---|---|
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=js,ts,python,java" alt="JavaScript, TypeScript, Python, Java"/> <br/> JavaScript · TypeScript · Python · Java |
+| **Frontend Development** | <img src="https://skillicons.dev/icons?i=react,html,css" alt="React, HTML, CSS"/> <br/> React.js · HTML5 · CSS3 |
+| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Node.js, Express, FastAPI"/> <br/> Node.js · Express.js · FastAPI · REST APIs |
+| **Databases & Caching** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" alt="PostgreSQL, MongoDB, Redis, MySQL"/> <br/> PostgreSQL · MongoDB · Redis · MySQL |
+| **AI / Machine Learning** | Machine Learning · Predictive Analytics · NLP · RAG · LLM Applications |
+| **Computer Vision & OCR** | OpenCV · YOLO · Image Processing · Tesseract OCR |
+| **Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="Git, GitHub, Docker, VS Code, Postman"/> <br/> Git · GitHub · Docker · VS Code · Postman |
 
 ---
 
-## ⚙️ Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-**Node.js · Express.js · FastAPI · REST APIs**
-
----
-
-## 🗄️ Databases & Caching
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</p>
-
-**PostgreSQL · MongoDB · Redis · SQL**
-
----
-
-## 🤖 AI / ML & Computer Vision
-
-**OpenCV · YOLO · Computer Vision · Image Processing ·  NLP · RAG · Tesseract OCR  · Predictive Analytics**
-
----
-
-## 🛠️ Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
-</p>
-
-**Git · GitHub · Docker · VS Code · Postman**
-
----
-
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 - 🚀 Building **production-oriented full-stack applications**
 - ⚛️ Deepening expertise in **React.js & TypeScript**
 - ⚙️ Designing **Node.js & Express.js backends**
-- 🏗️ Improving **API and backend architecture**
+- 🏗️ Improving **API design and backend architecture**
 - 🤖 Building **AI/ML-powered applications**
 - 👁️ Exploring **Computer Vision & intelligent automation**
 - 🧩 Developing **developer-focused tools**
@@ -105,14 +61,14 @@ I'm a **Full-Stack Developer** focused on building scalable web applications, AI
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/SamruddhiKadam2023in">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/-samruddhi-kadam/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:samruddhikadam.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/SamruddhiKadam2023in">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -121,16 +77,5 @@ I'm a **Full-Stack Developer** focused on building scalable web applications, AI
 ### 💡 Build. Learn. Iterate. 🚀
 
 <!--
-**SamruddhiKadam2023in/SamruddhiKadam2023in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**SamruddhiKadam2023in/SamruddhiKadam2023in** is a special repository because its README.md appears on your GitHub profile.
 -->
