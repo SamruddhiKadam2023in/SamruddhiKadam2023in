@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/-samruddhi-kadam/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://samruddhi-dev-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="mailto:samruddhikadam.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -26,6 +29,7 @@ I'm a **Full-Stack Developer** focused on building scalable web applications, AI
 - 🚀 Building practical solutions that combine **software engineering and intelligent automation**
 - 🔍 Exploring **developer tools, intelligent systems and computer vision applications**
 - 🛠️ Comfortable working across **frontend, backend, databases and AI pipelines**
+- 🌐 Explore my work: **[Portfolio Website](https://samruddhi-dev-portfolio.vercel.app/)**
 - 📫 Reach me at **samruddhikadam.dev@gmail.com**
 
 ---
@@ -61,14 +65,17 @@ I'm a **Full-Stack Developer** focused on building scalable web applications, AI
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/-samruddhi-kadam/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://samruddhi-dev-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website"/>
   </a>
   <a href="mailto:samruddhikadam.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/SamruddhiKadam2023in">
+    <a href="https://github.com/SamruddhiKadam2023in">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/-samruddhi-kadam/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
