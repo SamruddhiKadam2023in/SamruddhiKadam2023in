@@ -40,7 +40,7 @@ I'm a **Full-Stack Developer** focused on building scalable web applications, AI
 | **Databases & Caching** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" alt="PostgreSQL, MongoDB, Redis, MySQL"/> <br/> PostgreSQL · MongoDB · Redis · MySQL |
 | **AI / Machine Learning** | Machine Learning · Predictive Analytics · NLP · RAG · LLM Applications |
 | **Computer Vision & OCR** | OpenCV · YOLO · Image Processing · Tesseract OCR |
-| **Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="Git, GitHub, Docker, VS Code, Postman"/> <br/> Git · GitHub · Docker · VS Code · Postman |
+| **Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="Git, GitHub, Docker, VS Code"/> <br/> Git · GitHub · Docker · VS Code |
 
 ---
 
